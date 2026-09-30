@@ -1,12 +1,12 @@
 {
-  "name": "Gengar",
-  "title": "Prompt Engineer",
+  "name": "Nathaniel Hiraldo",
+  "title": "IT Support Specialist",
   "profileImage": "images/Gengar.png",
   "socialLinks": [
     {
       "label": "GitHub",
       "icon": "github",
-      "url": "https://github.com/Gengar"
+      "url": "https://github.com/NathanielH27"
     },
     {
       "label": "LinkedIn",
@@ -14,102 +14,63 @@
       "url": "https://www.linkedin.com/in/Gengar/"
     }
   ],
-  "expertiseTitle": "Expertise",
+  "expertiseTitle": "Core Skills",
   "expertise": [
     {
-      "title": "Full Stack Web Development",
-      "description": "I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.",
-      "technologies": ["React", "TypeScript", "JavaScript", "HTML5", "CSS3", "SASS", "Flask", "Python", "SQL", "PostgreSQL", "Postman"],
-      "icon": "react"
-    },
-    {
-      "title": "DevOps & Automation",
-      "description": "Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.",
-      "technologies": ["Git", "GitHub Actions", "Docker", "AWS", "Azure", "Linux", "Snowflake", "Pandas", "Selenium"],
+      "title": "IT Support & Troubleshooting",
+      "description": "Provides dependable help desk and field service support for computers, printers, networking equipment, and everyday end-user issues. Skilled at diagnosing problems, documenting resolutions, and communicating clearly with clients.",
+      "technologies": ["Windows", "Microsoft 365", "Hardware Support", "Printers", "Peripherals", "Troubleshooting", "Ticketing Systems"],
       "icon": "docker"
     },
     {
-      "title": "GenAI & LLM",
-      "description": "Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.",
-      "technologies": ["OpenAI", "Groq", "LangChain", "Qdrant", "Hugging Face", "LlamaIndex", "Streamlit"],
+      "title": "Networking & Device Setup",
+      "description": "Installs, configures, and maintains devices and networking equipment to keep operations running smoothly in client environments.",
+      "technologies": ["Networking", "Routers", "Switches", "Cisco CCST", "CompTIA N+", "Device Setup", "Configuration"],
+      "icon": "react"
+    },
+    {
+      "title": "Customer Service & Team Support",
+      "description": "Works well with clients and teammates in fast-paced environments by offering practical support, clear communication, and reliable follow-through.",
+      "technologies": ["Customer Support", "Communication", "Problem Solving", "Adaptability", "Teamwork", "Documentation"],
       "icon": "python"
     }
   ],
-  "experienceTitle": "Career Experience",
+  "experienceTitle": "Experience",
   "experience": [
     {
-      "date": "May 2025 - present",
-      "title": "Lab Tech",
-      "location": "Pallet Town, Kanto",
-      "description": "Assisting Professor Oak with laboratory experiments, upkeeping equipment, and research."
+      "date": "01/2024 – 08/2026",
+      "title": "IT Field Service Technician",
+      "location": "MDremoteITservices • Kissimmee, Florida",
+      "description": "Traveled independently to client locations to complete IT service work orders, diagnose and resolve hardware, software, network, and peripheral issues, and install, configure, and maintain computers, printers, and networking equipment. Communicated professionally with clients and documented resolutions in the ticketing system while meeting deadlines."
     },
     {
-      "date": "Sep. 2024 - May 2025",
-      "title": "Store Clerk Manager",
-      "location": "Celadon City, Kanto",
-      "description": "Responsible for organizing a team of 20+ store clerks in the region's largest deptartment store."
-    },
-    {
-      "date": "Jan. 2023 - Aug. 2024",
-      "title": "Professional Ghost",
-      "location": "Lavender Town, Kanto",
-      "description": "Scaring visitors who enter the Pokemon Tower."
+      "date": "01/2022 – 08/2026",
+      "title": "Volunteer",
+      "location": "Poinciana Spanish SDA Church • Kissimmee, Florida",
+      "description": "Collaborated with volunteers on beautification projects, provided compassionate support to congregation members, and assisted with special events and church programs."
     }
   ],
-  "projectsTitle": "Personal Projects",
+  "projectsTitle": "Service Highlights",
   "projects": [
     {
-      "title": "Filmate AI",
-      "description": "Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.",
-      "url": "https://www.filmate.club/",
+      "title": "Client IT Support Visits",
+      "description": "Completed onsite IT service work orders involving troubleshooting, hardware repair, software configuration, and device setup for client operations.",
       "image": "mock10.png"
     },
     {
-      "title": "High Speed Chase",
-      "description": "Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.",
-      "url": "https://yujisatojr.itch.io/highspeedchase",
+      "title": "Network & Device Maintenance",
+      "description": "Installed and maintained computers, printers, networking hardware, and other IT devices while documenting work and resolving issues efficiently.",
       "image": "mock09.png"
     },
     {
-      "title": "Astro Raiders",
-      "description": "Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.",
-      "url": "https://yujisatojr.itch.io/spacecraft",
+      "title": "Church Volunteer Support",
+      "description": "Supported the church community through event assistance, facility upkeep, and direct help for congregation members in need.",
       "image": "mock08.png"
-    },
-    {
-      "title": "Datum: Integrated Learning Platform",
-      "description": "This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.",
-      "url": "https://www.datumlearn.com/",
-      "image": "mock07.png"
-    },
-    {
-      "title": "WeManage: Real Estate Asset Management",
-      "description": "This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.",
-      "url": "http://www.wemanage.jp/",
-      "image": "mock06.png"
-    },
-    {
-      "title": "COVID-19 Case Management",
-      "description": "Built official charts for COVID/vaccination tracking for an educational institution using JavaScript and the Google Sheets API v4. The dashboard served the university's leadership in their decision-making processes.",
-      "url": "https://www.byuh.edu/covid-19-case-management",
-      "image": "mock05.png"
-    },
-    {
-      "title": "Multiple Regression Property Analysis",
-      "description": "Analyzed the real estate market in Japan and predicted property prices by implementing statistical methods such as OLS and multi-regression analysis. This project leveraged Python and various libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn.",
-      "url": "https://github.com/yujisatojr/multi-reg-analysis",
-      "image": "mock04.png"
-    },
-    {
-      "title": "Programs of Study",
-      "description": "Designed and developed a custom component for a CMS-based platform (e.g., 'Brightspot') using Java, Handlebars, and LESS. University students can find their majors of interest through this module.",
-      "url": "https://holokai.byuh.edu/programs-of-study",
-      "image": "mock03.png"
     }
   ],
   "contact": {
     "title": "Contact Me",
-    "description": "Got a project waiting to be realized? Let's collaborate and make it happen!",
-    "recipientEmail": "x@mail.com"
+    "description": "Open to entry-level IT, customer support, and help desk opportunities. I’d love to connect about a role or project.",
+    "recipientEmail": "nathanhir09@icloud.com"
   }
 }

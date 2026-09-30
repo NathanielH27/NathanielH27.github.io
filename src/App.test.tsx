@@ -5,8 +5,8 @@ import Contact from './components/Contact';
 
 test('renders portfolio content from the profile data', () => {
   render(<App />);
-  expect(screen.getByRole('heading', { name: 'Gengar' })).toBeInTheDocument();
-  expect(screen.getByRole('heading', { name: 'Filmate AI' })).toBeInTheDocument();
+  expect(screen.getByRole('heading', { name: 'Nathaniel Hiraldo' })).toBeInTheDocument();
+  expect(screen.getByRole('heading', { name: 'Client IT Support Visits' })).toBeInTheDocument();
 
   const githubLink = screen.getAllByRole('link', { name: 'GitHub' })[0];
   const linkedInLink = screen.getAllByRole('link', { name: 'LinkedIn' })[0];
